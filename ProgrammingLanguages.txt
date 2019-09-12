@@ -3,7 +3,13 @@ c
 C#
 java
 Go-lang
+phyton
+javascript
 
 
 Thank you !
+
+Done my changes
+
 Final Version Done
+
