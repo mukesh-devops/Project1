@@ -3,6 +3,8 @@ c
 C#
 java
 Go-lang
+phyton
+javascript
 
 
 Thank you !
